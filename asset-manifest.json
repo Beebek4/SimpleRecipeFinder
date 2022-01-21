@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleRecipeFinder/static/css/main.475d105c.css",
+    "main.js": "/SimpleRecipeFinder/static/js/main.9bcf0e46.js",
+    "static/js/787.13aee4be.chunk.js": "/SimpleRecipeFinder/static/js/787.13aee4be.chunk.js",
+    "index.html": "/SimpleRecipeFinder/index.html",
+    "main.475d105c.css.map": "/SimpleRecipeFinder/static/css/main.475d105c.css.map",
+    "main.9bcf0e46.js.map": "/SimpleRecipeFinder/static/js/main.9bcf0e46.js.map",
+    "787.13aee4be.chunk.js.map": "/SimpleRecipeFinder/static/js/787.13aee4be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475d105c.css",
+    "static/js/main.9bcf0e46.js"
+  ]
+}
